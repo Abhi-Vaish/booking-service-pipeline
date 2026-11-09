@@ -137,3 +137,4 @@ After you fix all four bugs and every scan is clean, ask: *is the service now
 secure?* No — only against **what these tools looked for**. A test shows the
 presence of a defence against a known threat; it never proves no threat
 remains.
+Pipeline lab in progress
